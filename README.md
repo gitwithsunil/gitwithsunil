@@ -3,48 +3,76 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&height=50&lines=Hello+World%2C+I'm+G.+Sunil+Kumar+Reddy;Cybersecurity+Engineer;Reverse+Engineer+%7C+Systems+Programmer;Offensive+Security+Specialist;Compiler+%26+Tools+Developer;Low-Level+Programming+Expert;Assembly+%26+Binary+Analysis+Ninja;Malware+Research+%26+Development" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&lines=G.+Sunil+Kumar+Reddy;>_Accessing_Kernel_Level...;>_Reverse_Engineering_Binary...;>_Malware_Analysis_In_Progress...;Offensive+Security+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gitwithsunil&label=Profile%20visits&color=0D5F1A&style=flat-square" alt="Profile Visits" />
-  <img src="https://img.shields.io/github/followers/gitwithsunil?label=Followers&style=flat-square&color=2D8F3A" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/gitwithsunil/gitwithsunil?label=Last%20Updated&color=0D5F1A&style=flat-square" alt="Last Commit" />
+  <img src="https://komarev.com/ghpvc/?username=gitwithsunil&label=SYSTEM_ACCESS_COUNT&color=0D5F1A&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/gitwithsunil?label=PEERS&style=flat-square&color=2D8F3A" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0D5F1A?style=flat-square" />
 </p>
 
 ---
 
-### 🛡️ Skills & Arsenal
+### 🖥️ [0x0] Binary Arsenal & Toolchain
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitwithsunil&theme=matrix&column=7&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&theme=matrix&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&theme=matrix&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitwithsunil&theme=matrix&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff" width="100%" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23E0115F.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 Activity
+### 📊 [0x1] System Diagnostics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D5F1A/gitwithsunil" alt="Github Contribution Grid" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitwithsunil&theme=matrix&column=7&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true" width="100%" />
 </p>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&theme=matrix&hide_border=true&title_color=0D5F1A&icon_color=2D8F3A" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&theme=matrix&hide_border=true&title_color=0D5F1A" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitwithsunil&theme=matrix&hide_border=true&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A" width="100%" />
+</p>
+
+---
+
+### 🌐 [0x2] Network Activity (Commit Grid)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0D5F1A/gitwithsunil" alt="Contribution Grid" width="100%" />
+</p>
+
+<details>
+<summary align="center"><b>📂 Click to expand System Detailed Logs</b></summary>
+<br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitwithsunil&theme=github_dark" width="100%" />
 </p>
+</details>
+
+---
 
 <p align="center">
-  <a href="https://github.com/gitwithsunil">
-    <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-0D5F1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/SECURE_CONNECTION_ESTABLISHED-0D5F1A?style=flat-square" />
+</p>
+
+<p align="right">
+  <i>"In the world of bits and bytes, the code is the law."</i>
 </p>
