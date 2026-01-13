@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&lines=G.+Sunil+Kumar+Reddy;>_Accessing_Kernel_Level...;>_Reverse_Engineering_Binary...;>_Malware_Analysis_In_Progress...;Offensive+Security+Specialist" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&lines=G.+Sunil+Kumar+Reddy;>_Accessing_Kernel_Level...;>_Reverse_Engineering_Binary...;>_Malware_Analysis_In_Progress...;Offensive+Security+Specialist" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -30,22 +32,28 @@
 
 ---
 
-### 📊 [0x1] System Diagnostics
+### 🐍 [0x1] Contribution Infiltration
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📊 [0x2] System Diagnostics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gitwithsunil&theme=matrix&column=7&row=1&margin-w=15&margin-h=15&no-frame=true&no-bg=true" width="100%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&theme=matrix&hide_border=true&title_color=0D5F1A&icon_color=2D8F3A" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&theme=matrix&hide_border=true&title_color=0D5F1A" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&theme=matrix&hide_border=true&title_color=0D5F1A&icon_color=2D8F3A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&theme=matrix&hide_border=true&title_color=0D5F1A" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitwithsunil&theme=matrix&hide_border=true&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A" width="100%" />
@@ -53,14 +61,8 @@
 
 ---
 
-### 🌐 [0x2] Network Activity (Commit Grid)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 <details>
-<summary align="center"><b>📂 Click to expand System Detailed Logs</b></summary>
+<summary align="center"><b>📂 [0x3] Click to expand System Detailed Logs</b></summary>
 <br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitwithsunil&theme=github_dark" width="100%" />
