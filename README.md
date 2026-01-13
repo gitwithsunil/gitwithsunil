@@ -88,5 +88,5 @@
 </p>
 
 <p align="right">
-  <i>"Every bit has a story. I just force the binary to tell it."</i>
+  <i>"I don't break the rules. I just find the ones that don't apply to me."</i>
 </p>
