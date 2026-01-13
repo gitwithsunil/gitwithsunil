@@ -26,3 +26,62 @@ Core areas of interest:
 ## 🔬 Engineering Stack
 
 **Low-level & Systems**
+
+---
+
+## 📊 GitHub Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitwithsunil&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/0D5F1A/gitwithsunil" />
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitwithsunil&theme=matrix&no-frame=true&column=6" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D5F1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitwithsunil)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+</div>
+
+---
+
+## 🔐 Engineering Philosophy
+
+> “Security is not about tools. It is about understanding systems well enough to break them — and then making them unbreakable.”
+
+---
+
+<div align="center">
+
+**Reverse • Understand • Exploit • Secure**
+
+</div>
+
