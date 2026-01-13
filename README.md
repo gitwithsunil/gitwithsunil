@@ -56,7 +56,7 @@
 ### 🌐 [0x2] Network Activity (Commit Grid)
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0D5F1A/gitwithsunil" alt="Contribution Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <details>
