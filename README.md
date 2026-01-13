@@ -94,5 +94,5 @@
 </p>
 
 <p align="right">
-  <i>"In the world of bits and bytes, the code is the law."</i>
+  <i>"I don't break the rules. I just find the ones that don't apply to me."</i>
 </p>
