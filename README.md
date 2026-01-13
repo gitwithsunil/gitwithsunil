@@ -17,7 +17,7 @@
 ### 🐍 [0x0] Activity Stream (Red Team Simulation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg" alt="Red Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg?v=3" alt="Red Snake Animation" width="100%" />
 </p>
 
 ---
@@ -60,8 +60,27 @@
 
 ---
 
+### 📡 [0x3] Communication Channels
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/g-sunil-kumar-reddy-458779334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/reddysu81">
+    <img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://github.com/gitwithsunil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:reddysu81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <details>
-<summary align="center"><b>📂 [0x3] Click to expand System Detailed Logs</b></summary>
+<summary align="center"><b>📂 [0x4] Click to expand System Detailed Logs</b></summary>
 <br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitwithsunil&theme=github_dark" width="100%" />
