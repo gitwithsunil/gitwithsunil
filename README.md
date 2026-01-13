@@ -14,10 +14,10 @@
 
 ---
 
-### 🐍 [0x0] Activity Stream (Red Team Pulse)
+### 🐍 [0x0] Activity Stream (2026 Red Team Pulse)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg?v=4" alt="Red Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg?v=2026" alt="Red Snake Animation" width="100%" />
 </p>
 
 ---
@@ -94,5 +94,5 @@
 </p>
 
 <p align="right">
-  <i>"I don't break the rules. I just find the ones that don't apply to me."</i>
+  <i>"Every bit has a story. I just force the binary to tell it."</i>
 </p>
