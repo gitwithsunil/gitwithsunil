@@ -43,16 +43,10 @@
 
 ### 📊 [0x2] Diagnostic Metrics (Red Alert)
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=1.0.1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitwithsunil&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=1.0.1" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitwithsunil&theme=blood&background=0d1117&hide_border=true&ring=FF0000&fire=FF0000&currStreakNum=ffffff&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff" width="100%" />
