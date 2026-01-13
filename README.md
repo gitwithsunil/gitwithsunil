@@ -22,6 +22,13 @@
 
 ---
 
+### 📡 [0x0.5] System Status: Active Research
+> **Target:** Linux Kernel Module Analysis  
+> **Status:** [||||||||||||||--------] 70% Decrypted  
+> **Mode:** Offensive Security Exploration  
+
+---
+
 ### 🛡️ [0x1] Binary Arsenal & Toolset
 
 <p align="center">
