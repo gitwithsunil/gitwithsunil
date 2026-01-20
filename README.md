@@ -14,7 +14,7 @@
 
 ---
 
-###  Activity Stream (2026 Red Team Pulse)
+###  Activity Stream 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg?v=2026" alt="Red Snake Animation" width="100%" />
