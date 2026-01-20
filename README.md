@@ -14,7 +14,7 @@
 
 ---
 
-### 🐍 [0x0] Activity Stream (2026 Red Team Pulse)
+###  Activity Stream (2026 Red Team Pulse)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gitwithsunil/gitwithsunil/output/github-contribution-grid-snake-dark.svg?v=2026" alt="Red Snake Animation" width="100%" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛡️ [0x1] Binary Arsenal & Toolset
+###  Binary Arsenal & Toolset
 
 <p align="center">
   <b>Low-Level & Systems Programming</b><br>
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 [0x2] Diagnostic Metrics (Red Alert)
+###  Diagnostic Metrics (Red Alert)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitwithsunil&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117&hide_border=true&v=1.0.1" width="48%" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📡 [0x3] Communication Channels (Connection Established)
+###  Communication Channels (Connection Established)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/g-sunil-kumar-reddy-458779334/">
