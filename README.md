@@ -74,7 +74,7 @@
 ---
 
 <details>
-<summary align="center"><b>📂 [0x4] Click to expand System Detailed Logs</b></summary>
+<summary align="center"><b> Click to expand System Detailed Logs</b></summary>
 <br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitwithsunil&theme=github_dark" width="100%" />
